@@ -1,5 +1,5 @@
 Welcome to random meme generator! This react app fetches random images from the memes database and allows you to add your own captions to it. 
-https://chic-cassata-7f52a1.netlify.app/
+
 ![Sample Output]()
 
 How to run:
